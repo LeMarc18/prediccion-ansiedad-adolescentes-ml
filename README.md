@@ -45,7 +45,9 @@ Generación sintética/aleatoria de la variable anxiety_level en el dataset, o
 Ausencia de los verdaderos determinantes de la ansiedad (factores genéticos, familiares, eventos de vida) entre las columnas disponibles.
 
 Se considera trabajo futuro explorar modelos adicionales (Gradient Boosting, SVR) y, de ser posible, enriquecer el dataset con variables adicionales.
+
 Estructura del repositorio
+
 ├── Proyecto_Machine_Learning.ipynb   # Notebook completo con análisis y modelos
 
 ├── Teen_Mental_Health_Dataset.csv    # Dataset utilizado
